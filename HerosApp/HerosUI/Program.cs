@@ -1,4 +1,5 @@
 ﻿using System;
+using HerosLib;
 
 namespace HerosApp
 {
@@ -6,7 +7,9 @@ namespace HerosApp
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Heros obj = new Heros();
+
+            Console.WriteLine($"My name is {obj.name} id is {obj.id}");
         }
     }
 }
