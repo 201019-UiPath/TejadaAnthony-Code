@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "SWQVBWpJFqNGpt87dayrf/4QoV3NYXdn/LtfOJ5Bw3fMcMMdqgqHb41yoa/qijDj+9RIfK+SmNQ/+J0q8NBTYQ==",
+  "success": true,
+  "projectFilePath": "D:\\revature-workspace\\Demos&Notes\\CSharp\\HerosApp\\HerosDB\\HerosDB.csproj",
+  "expectedPackageFiles": [
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

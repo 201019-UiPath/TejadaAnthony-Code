@@ -1,0 +1,13 @@
+D:\revature-workspace\Demos&Notes\CSharp\HerosApp\bin\Debug\netcoreapp3.1\HerosApp.exe
+D:\revature-workspace\Demos&Notes\CSharp\HerosApp\bin\Debug\netcoreapp3.1\HerosApp.deps.json
+D:\revature-workspace\Demos&Notes\CSharp\HerosApp\bin\Debug\netcoreapp3.1\HerosApp.runtimeconfig.json
+D:\revature-workspace\Demos&Notes\CSharp\HerosApp\bin\Debug\netcoreapp3.1\HerosApp.runtimeconfig.dev.json
+D:\revature-workspace\Demos&Notes\CSharp\HerosApp\bin\Debug\netcoreapp3.1\HerosApp.dll
+D:\revature-workspace\Demos&Notes\CSharp\HerosApp\bin\Debug\netcoreapp3.1\HerosApp.pdb
+D:\revature-workspace\Demos&Notes\CSharp\HerosApp\obj\Debug\netcoreapp3.1\HerosApp.csprojAssemblyReference.cache
+D:\revature-workspace\Demos&Notes\CSharp\HerosApp\obj\Debug\netcoreapp3.1\HerosApp.AssemblyInfoInputs.cache
+D:\revature-workspace\Demos&Notes\CSharp\HerosApp\obj\Debug\netcoreapp3.1\HerosApp.AssemblyInfo.cs
+D:\revature-workspace\Demos&Notes\CSharp\HerosApp\obj\Debug\netcoreapp3.1\HerosApp.csproj.CoreCompileInputs.cache
+D:\revature-workspace\Demos&Notes\CSharp\HerosApp\obj\Debug\netcoreapp3.1\HerosApp.dll
+D:\revature-workspace\Demos&Notes\CSharp\HerosApp\obj\Debug\netcoreapp3.1\HerosApp.pdb
+D:\revature-workspace\Demos&Notes\CSharp\HerosApp\obj\Debug\netcoreapp3.1\HerosApp.genruntimeconfig.cache
